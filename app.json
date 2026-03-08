@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "The Note Taker",
+    "slug": "note-taker-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "note-taker-app",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#325AD2" } },
+    "plugins": ["expo-router"]
+  }
+}
